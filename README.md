@@ -1,1 +1,1 @@
-# Tarea-2-An-lisis-Num-rico-
+# Tarea-2-Análisis-Numérico-
