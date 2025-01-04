@@ -15,5 +15,5 @@ _____________________________
 <span style="font-size: 24px;"></span>
 _____________________________
 Para ejecutar el proyecto tiene 2 alternativas: 
-1. Subir el conjunto de datos a su cuenta de Google Drive y configurar la ruta de importación de este en el colab o subir el conjunto de datos al colab.
-2. Ejecutarlo en local, pero primero configurando la ruta de importación del conjunto de datos.
+1. **Subir el conjunto de datos a su cuenta de Google Drive y configurar la ruta de importación de este en el colab o subir el conjunto de datos al colab.**
+2. **Ejecutarlo en local, pero primero configurando la ruta de importación del conjunto de datos.**
