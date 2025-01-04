@@ -9,4 +9,4 @@ _____________________________
 
 * **NVIDIA A100 GPU**
 * **Descomprimir los archivos de test_data y train_data**
-* ****
+* **Descomprimir el conjunto de datos que se encuentra en el Release debido al tamaño de este**
