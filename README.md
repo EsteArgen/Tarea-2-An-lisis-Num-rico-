@@ -8,3 +8,4 @@ Este proyecto implementa un sistema de verificación de firmas utilizando redes 
 _____________________________
 
 * **Hardware**
+** - NVIDIA A100 GPU 
