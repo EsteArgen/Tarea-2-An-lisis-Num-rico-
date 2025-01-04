@@ -8,4 +8,5 @@ Este proyecto implementa un sistema de verificación de firmas utilizando redes 
 _____________________________
 
 * **NVIDIA A100 GPU**
-* **Descomprimir los archivos de test y train**
+* **Descomprimir los archivos de test_data y train_data**
+* ****
